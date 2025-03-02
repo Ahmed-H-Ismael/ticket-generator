@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ahmed-H-Ismael/ticket-generator.git%60/static/css/main.1304dfc8.css",
+    "main.js": "/Ahmed-H-Ismael/ticket-generator.git%60/static/js/main.b0238a4a.js",
+    "static/media/Inconsolata-VariableFont_wdth,wght.ttf": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/Inconsolata-VariableFont_wdth,wght.f2f0207973661b7491ba.ttf",
+    "static/media/background-desktop.png": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/background-desktop.aaca402b029d6080d68d.png",
+    "static/media/background-mobile.png": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/background-mobile.ff485619398faf341a96.png",
+    "static/media/pattern-lines.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/pattern-lines.e90ac37869c36f4a4eab.svg",
+    "static/media/pattern-ticket.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/pattern-ticket.7cee01f64f054b6ee64d.svg",
+    "static/media/pattern-squiggly-line-top.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/pattern-squiggly-line-top.39ecf486aeda97306f56.svg",
+    "static/media/pattern-squiggly-line-bottom-mobile-tablet.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/pattern-squiggly-line-bottom-mobile-tablet.67888dd4c86951f7bef0.svg",
+    "static/media/pattern-squiggly-line-bottom-desktop.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/pattern-squiggly-line-bottom-desktop.02c2143a87694e5503a4.svg",
+    "static/media/icon-upload.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/icon-upload.860d7f0ca71820579c142f900d7b81db.svg",
+    "index.html": "/Ahmed-H-Ismael/ticket-generator.git%60/index.html",
+    "static/media/logo-mark.svg": "/Ahmed-H-Ismael/ticket-generator.git%60/static/media/logo-mark.f90bb6d7cc24e4a9e4c584a63c57bbf3.svg",
+    "main.1304dfc8.css.map": "/Ahmed-H-Ismael/ticket-generator.git%60/static/css/main.1304dfc8.css.map",
+    "main.b0238a4a.js.map": "/Ahmed-H-Ismael/ticket-generator.git%60/static/js/main.b0238a4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1304dfc8.css",
+    "static/js/main.b0238a4a.js"
+  ]
+}
